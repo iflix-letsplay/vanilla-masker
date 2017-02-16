@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-masker",
+  "name": "@iflix/vanilla-masker",
   "version": "1.1.0",
   "description": "VanillaMasker is a pure javascript input mask.",
   "main": "lib/vanilla-masker.js",
